@@ -1,0 +1,9 @@
+name: 'Android Configurator'
+description: 'Action Android Configurator for Qizuna'
+author: 'Qizuna'
+branding:
+  icon: 'smartphone'
+  color: 'orange'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
